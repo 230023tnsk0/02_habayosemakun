@@ -3,10 +3,13 @@ h1 {
     padding: 0.1em 0.5em;
     background: -webkit-linear-gradient(to right, rgb(255, 186, 115), transparent);
     background: linear-gradient(to right, rgb(255, 186, 115), transparent);
-    color: #545454;
+    color: #537ac4;
   }
 
   .background {
     background: linear-gradient(90deg, rgba(22, 135, 237, 0.6), rgba(20, 55, 90, 0.9)) ,url(background.jpg);
 }
-  
+
+.container{
+  text-align: center;
+}
